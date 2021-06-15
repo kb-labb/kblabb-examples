@@ -16,7 +16,7 @@ After an example is submitted, authors are encouraged to add a link to the examp
 
 ### api
 
-[**Filter packages**](https://github.com/kb-labb/kblabb-examples/api/filter_packages): Select only the packages you are interested in. Learn to use `kblab` python package and custom API calls to filter search queries based on title, creation date, textual content and more. 
+[**Filter packages**](https://github.com/kb-labb/kblabb-examples/tree/master/api/filter_packages): Select only the packages you are interested in. Learn to use `kblab` python package and custom API calls to filter search queries based on title, creation date, textual content and more. 
 
 ### text
 
