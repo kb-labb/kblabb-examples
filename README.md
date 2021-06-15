@@ -10,13 +10,13 @@ This repo is organized in the following manner:
 
 Examples can be found in subfolders of the above listed directories. Each example (subfolder) should have its own README with instructions and explanations.
 
-After an example is submitted, authors are encouraged to add a link to the example (subfolder) in this README file with a short summary of the purpose or contents of the example. 
+After an example is submitted, authors are encouraged to add a link to the example (subfolder) in this README file with a short summary of the purpose and contents of the example. 
 
 ## Example Links
 
 ### api
 
-[**Filter packages**](https://github.com/kb-labb/kblabb-examples/tree/master/api/filter_packages): Select only the packages you are interested in. Learn to use `kblab` python package and custom API calls to filter search queries based on title, creation date, textual content and more. 
+[**Filter packages**](https://github.com/kb-labb/kblabb-examples/tree/master/api/filter_packages): Select only the specific newspapers, parliamentary minutes, etc., that you are interested in. Learn to use `kblab` python package and custom API calls to filter search queries based on title, creation date, textual content and more. 
 
 ### text
 
