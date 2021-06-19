@@ -20,6 +20,7 @@ After an example is submitted, authors are encouraged to add a link to the examp
 
 ### text
 
+[**Machine Translation on the GPU using MarianNMT**](https://github.com/kb-labb/kblabb-examples/tree/master/text/machine_translation_gpu): Perform Neural Machine Translation to translate sentences from one language to another. We provide an inference script that is better (more efficient) than the examples provided in the official huggingface documentation. Useful if you want to translate a large number of sentences with good GPU utilization. 
 
 ### image
 
