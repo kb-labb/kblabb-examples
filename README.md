@@ -24,6 +24,6 @@ After an example is submitted, authors are encouraged to add a link to the examp
 
 ### image
 
-[**Download and annotation of images from datalab**](https://github.com/kb-labb/kblabb-examples/tree/master/images/annotation): Shows how to download metadata of all newspaper packages in datalab API, followed by an example how to use that downloaded metadata to sample relevant packages. We then download useful OCR data from the sampled packages as well as images of each newspaper page and save them to disk. Finally we show how to import OCR boxes to the annotation software Label Studio as predictions.
+[**Download and annotation of images from datalab**](https://github.com/kb-labb/kblabb-examples/tree/master/image/annotation): Shows how to download metadata of all newspaper packages in datalab API, followed by an example how to use that downloaded metadata to sample relevant packages. We then download useful OCR data from the sampled packages as well as images of each newspaper page and save them to disk. Finally we show how to import OCR boxes to the annotation software Label Studio as predictions.
 
 ### docker 
