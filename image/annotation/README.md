@@ -4,7 +4,7 @@ Project to set up annotation for images and captions from newspapers using objec
 
 This repository samples newspaper editions and downloads their respective newspaper page images. Metadata is also downloaded from the segmentation already performed by OCR. These are used as a starting point for manual annotation with the annotation software Label Studio. 
 
-1. `00_get_metadata.py`: Download metadata about all (newspaper) packages in datalab and save as `all_metadata.feather` (to save feather files install `pip install pyarrow`).
+1. `00_get_metadata.py`: Download metadata about all (newspaper) packages in datalab and save as `all_metadata.feather`.
 2. `01_sample_editions.py`: Example of how to sample from the generated metadata file in previous step. 
 3. `02_download_content.py`: Download useful information from content.json and structure.json files of each package we have sampled.
 4. `03_download_page_images.py`: Download the image of the newspaper page for every page in our sampled packages. 

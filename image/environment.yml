@@ -1,0 +1,6 @@
+# run: conda env create --file environment.yml
+name: kblabb-examples-image
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9

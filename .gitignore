@@ -1,2 +1,4 @@
-api/filter_packages/.ipynb_checkpoints/*
-api/.ipynb_checkpoints/*
+/api/filter_packages/.ipynb_checkpoints/*
+/api/.ipynb_checkpoints/*
+/image/annotation/images/dark*
+/image/annotation/data/*
