@@ -3,7 +3,7 @@
 
 ## Installation
 
-Install conda environment named `kblabb-examples-api` using [environment.yml](https://github.com/kb-labb/kblabb-examples/blob/main/environment.yml) file:
+Install conda environment named `kblabb-examples-api` using [environment.yml](https://github.com/kb-labb/kblabb-examples/blob/master/api/environment.yml) file:
 
 ```bash
 conda env create -f environment.yml
